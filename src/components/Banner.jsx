@@ -7,7 +7,7 @@ const Banner = forwardRef((props, ref) => {
           <div className="banner-container-content-text">
             <h1>
               Front-End React Developer{" "}
-              <img src="../src/assets/waving.png" alt="Waving image"></img>
+              <img src="/public/waving.png" alt="Waving image"></img>
             </h1>
 
             <p>
@@ -66,7 +66,7 @@ const Banner = forwardRef((props, ref) => {
             </ul>
           </div>
           <div className="banner-container-image">
-            <img src="../src/assets/my-image.jpg" alt="Cristian Portret"></img>
+            <img src="/public/my-image.jpg" alt="Cristian Portret"></img>
           </div>
         </div>
         <div className="banner-container-tech-stack">

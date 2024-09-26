@@ -180,8 +180,10 @@ p {
   width: 100%;
 }
 .banner-container-content-text img {
-  max-width: 60px;
+  width: 60px;
   display: inline;
+  font-size: 1.6rem;
+  font-weight: 400;
 }
 .banner-container-content {
   display: flex;
