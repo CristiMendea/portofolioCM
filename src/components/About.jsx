@@ -5,7 +5,7 @@ const Banner = forwardRef((props, ref) => {
       <div className="container">
         <div className="about-container">
           <div className="about-container-image">
-            <img src="/public/about-me.jpg" alt="Cristian Mendea" />
+            <img src="/about-me.jpg" alt="Cristian Mendea" />
           </div>
           <div className="about-container-content">
             <h2 className="section-title">About me</h2>
